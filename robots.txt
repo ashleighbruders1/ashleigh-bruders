@@ -19,3 +19,4 @@ Allow: /
 User-agent: *
 Allow: /
 Sitemap: https://www.ashleighbruders.com/sitemap.xml
+
